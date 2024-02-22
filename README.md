@@ -58,6 +58,12 @@ DB_PASSWORD= # Set to your database password
 php artisan migrate --seed
 ```
 
+#### Start your local server or use Laravel's artisan command:
+
+```
+php artisan serve
+```
+
 #### Your app is now ready!
 
 ## Implementation
