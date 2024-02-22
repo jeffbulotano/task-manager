@@ -66,6 +66,10 @@ php artisan serve
 
 #### Your app is now ready!
 
+## Testing
+
+TODO
+
 ## Implementation
 
 TODO
