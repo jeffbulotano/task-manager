@@ -52,6 +52,12 @@ DB_USERNAME=root # Set to your database username
 DB_PASSWORD= # Set to your database password
 ```
 
+#### Run the migration and seeder
+
+```
+php artisan migrate --seed
+```
+
 #### Your app is now ready!
 
 ## Implementation
